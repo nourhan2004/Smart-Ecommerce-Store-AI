@@ -2,8 +2,9 @@
 //  SmartStore — Frontend Logic
 //  Developer: Mahmoud (Frontend)
 // ══════════════════════════════════════════════
+// Updated: minor frontend improvements and code cleanup
 
-// ── Products Data (مؤقت — لاحقاً من Backend سبيل) ──
+// ── Products Data 
 const products = [
   {
     id: 1,
