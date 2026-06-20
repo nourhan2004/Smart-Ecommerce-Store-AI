@@ -3,7 +3,7 @@
 //  Developer: Mahmoud (Frontend)
 // ══════════════════════════════════════════════
 
-// ── Products Data (مؤقت — لاحقاً من Backend سبيل) ──
+// ── Products Data 
 const products = [
   {
     id: 1,
